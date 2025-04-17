@@ -40,7 +40,7 @@ If you're interested in working together or want to chat about data, feel free t
 
 ## 💼 Projects
 
-- **[📊 Call Center Performance Dashboard](https://github.com/temilyst/Call-center-performance)**  
+- **[📊 Call Center Performance Dashboard](https://github.com/temilyst/Call-center-performance-)**  
   A Power BI project analyzing call records to evaluate agent efficiency and customer satisfaction. Includes performance metrics, KPIs, and actionable insights for improving service quality.
 
 - **[🌍 Healthcare Accessibility in Africa](https://github.com/temilyst/Africa-HeaithCare-Accessibility-Project)**  
